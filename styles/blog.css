@@ -1,7 +1,9 @@
 div {
-    background-color: darkkhaki;
     margin: 30px;
     border: 10px;
+    margin-bottom: 10px;
+    image-resolution: 20px;
+    
 }    
 
     
